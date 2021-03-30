@@ -1,23 +1,23 @@
 [
     {
-        title: 'Nietzsche',
-        data: [
+        "title": "Nietzsche",
+        "data": [
             {
-                titulo: 'Casa do saber',
-                descricao: 'Esta semana, o Quem Somos Nós? tem a honra de receber Scarlett Marton, professora de história da filosofia e considerada uma das maiores conhecedoras brasileiras do filósofo alemão Friedrich Nietzsche.',
-                imagem: 'https://upload.wikimedia.org/wikipedia/commons/1/1b/Nietzsche187a.jpg',
-                video: 'https://www.youtube.com/watch?v=5L2K6HKrEyA'
+                "titulo": "Casa do saber",
+                "descricao": "Esta semana, o Quem Somos Nós? tem a honra de receber Scarlett Marton, professora de história da filosofia e considerada uma das maiores conhecedoras brasileiras do filósofo alemão Friedrich Nietzsche.",
+                "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Nietzsche187a.jpg",
+                "video": "https://www.youtube.com/watch?v=5L2K6HKrEyA"
             }
         ]
     },
     {
-        title: 'Bauman',
-        data: [
+        "title": "Bauman",
+        "data": [
             {
-                titulo: 'Casa do saber',
-                descricao: 'Conhecido por suas análises do consumismo pós-moderno, o filósofo polonês Zygmunt Bauman é o assunto do Quem Somos Nós? desta semana. Ele terá a obra e pensamento analisados pelo professor Luís Mauro Sá Martino, em um bate-papo com Celso Loducca.',
-                imagem: 'https://caminhanteaprendiz.files.wordpress.com/2018/03/zygmunt-bauman.png?w=656&h=622&crop=1',
-                video: 'https://www.youtube.com/watch?v=exRPweoBDfc'
+                "titulo": "Casa do saber",
+                "descricao": "Conhecido por suas análises do consumismo pós-moderno, o filósofo polonês Zygmunt Bauman é o assunto do Quem Somos Nós? desta semana. Ele terá a obra e pensamento analisados pelo professor Luís Mauro Sá Martino, em um bate-papo com Celso Loducca.",
+                "imagem": "https://caminhanteaprendiz.files.wordpress.com/2018/03/zygmunt-bauman.png?w=656&h=622&crop=1",
+                "video": "https://www.youtube.com/watch?v=exRPweoBDfc"
             }
         ]
     }
