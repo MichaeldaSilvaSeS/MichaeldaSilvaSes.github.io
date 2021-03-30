@@ -12,6 +12,17 @@
             ]
         },
         {
+            "title": "Freud",
+            "data": [
+                {
+                    "titulo": "Casa do saber",
+                    "descricao": "Conhecido por suas análises do consumismo pós-moderno, o filósofo polonês Zygmunt Bauman é o assunto do Quem Somos Nós? desta semana. Ele terá a obra e pensamento analisados pelo professor Luís Mauro Sá Martino, em um bate-papo com Celso Loducca.",
+                    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sigmund_Freud_LIFE.jpg",
+                    "video": "https://www.youtube.com/watch?v=RvvaHMe2S2s&list=PLlHDVKUxuaFoS9wWpst3BoAJD1QADT3Km"
+                }
+            ]
+        },
+        {
             "title": "Bauman",
             "data": [
                 {
